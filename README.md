@@ -8,7 +8,7 @@
 
 ### Você pode entrar em contato comigo
 
-barros.maiara@escola.pr.gpv.br
+barros.maiara@escola.pr.gov.br
 
 <!---
 Maiaramaia1/Maiaramaia1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
